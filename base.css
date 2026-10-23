@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+    font-family: Georgia, serif;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.main {
+    width: 760px;
+    margin: auto;
+}
+
+.main h1 {
+    text-align: center;
+}
